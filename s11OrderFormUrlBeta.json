@@ -1,5 +1,5 @@
 [
-  {"platform": "ios", "urlPhpBase": "http://10.0.2.2/s11OrderFormBackend/","urlNodeBase":"https://www.soneonefbgroup.com/"},
+  {"platform": "ios", "urlPhpBase": "http://127.0.0.1/s11OrderFormBackend/","urlNodeBase":"https://www.soneonefbgroup.com/"},
   {"platform": "huawei", "urlPhpBase": "http://10.0.2.2/s11OrderFormBackend/","urlNodeBase":"https://www.soneonefbgroup.com/"},
   {"platform": "android", "urlPhpBase": "http://10.0.2.2/s11OrderFormBackend/","urlNodeBase":"https://www.soneonefbgroup.com/"}
 ]
